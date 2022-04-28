@@ -27,8 +27,8 @@ sv = Service('人工智障')
 
 black_word = ['色图','来一井','贵族签到'] #如果有不想触发的词可以填在这里
 
-SecretId = '' #  填你的SecretId
-SecretKey = ''#  填你的SecretKey
+SecretId = 'AKID85mDOIvHNBiyyh9LGwLSIsABvPbWBZhX' #  填你的SecretId
+SecretKey = 'bfT0GEwNWOzJM8cqnTs1tUord7KGwKRH'#  填你的SecretKey
 
 
 try:
